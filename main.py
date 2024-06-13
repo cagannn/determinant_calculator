@@ -1,4 +1,3 @@
-import random
 def det(matris, row, col):
     #detA=a21*A21+a22*A22+a23*A23
     choose=1
